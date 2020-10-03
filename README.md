@@ -1,6 +1,6 @@
 # Water My Plants
 
-#Note: Switch to development branch for full product download. 
+# Note: Switch to development branch for full product download. 
 
 ## What Does This App Do?
 
